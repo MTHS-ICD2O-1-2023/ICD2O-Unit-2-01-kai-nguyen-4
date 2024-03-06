@@ -1,4 +1,4 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2024 Kai Nguyen All rights reserved
 //
 // Created by: Kai Nguyen
 // Created on: Mar 2024
